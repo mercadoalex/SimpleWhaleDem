@@ -1,4 +1,4 @@
 
 FROM nginx:alpine
 COPY static /usr/share/nginx/html
-LABEL maintainer = "mercadoalex@gmail.com"
+LABEL maintainer = "mercadoalex@gmail.commmmm"
